@@ -47,13 +47,13 @@ optionImages.forEach((image, index) => {
       let outcomes = {
         RR: "Draw",
         RP: "Computer",
-        RS: "User",
+        RS: "You",
         PP: "Draw",
-        PR: "User",
+        PR: "You",
         PS: "Computer",
         SS: "Draw",
         SR: "Computer",
-        SP: "User",
+        SP: "You",
       };
 
       // Look up the outcome value based on user and CPU options
