@@ -26,6 +26,12 @@ A simple web-based Rock Paper Scissors game built with HTML, CSS, and JavaScript
 - CSS
 - JavaScript
 
+## Contributing
+Contributions are welcome! If you'd like to improve the play or have any suggestions, please open an issue or create a pull request.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 Feel free to explore the code and customize it to your liking!
 
