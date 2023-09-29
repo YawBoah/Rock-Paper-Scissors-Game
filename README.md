@@ -1,4 +1,5 @@
 # Rock Paper Scissors Game
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cb92efa6-2cae-4d74-a8b2-0fbcf278ee8b/deploy-status)](https://app.netlify.com/sites/rpscissgame/deploys)
 
 A simple web-based Rock Paper Scissors game built with HTML, CSS, and JavaScript. Try your luck against the computer and see if you can emerge as the winner!
 
