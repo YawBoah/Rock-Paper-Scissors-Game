@@ -27,6 +27,21 @@ A simple web-based Rock Paper Scissors game built with HTML, CSS, and JavaScript
 - CSS
 - JavaScript
 
+## Installation
+
+1. Clone the repository or download the ZIP file.
+   ```bash
+   git clone https://github.com/YawBoah/rock-paper-scissors-game.git
+   ```
+
+2. Navigate to the project directory.
+   ```bash
+   cd rock-paper-scissors-game
+   ```
+
+3. Open the `index.html` file in your web browser.
+
+
 ## Contributing
 Contributions are welcome! If you'd like to improve the play or have any suggestions, please open an issue or create a pull request.
 
