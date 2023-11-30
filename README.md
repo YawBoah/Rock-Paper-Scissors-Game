@@ -7,14 +7,12 @@ A simple web-based Rock Paper Scissors game built with HTML, CSS, and JavaScript
 ![image](https://github.com/YawBoah/Rock-Paper-Scissors-Game/assets/126890146/ae2af400-fe35-4748-81cf-63fc99fc590a)
 
 ## How to Play
-
 1. Open the game in your web browser.
 2. Click on one of the three options: Rock, Paper, or Scissors.
 3. Wait for the computer to make its choice.
 4. The game will display the winner or if it's a draw.
 
 ## Features
-
 - User-friendly interface.
 - Engaging gameplay.
 - Fun animations.
@@ -22,13 +20,11 @@ A simple web-based Rock Paper Scissors game built with HTML, CSS, and JavaScript
 - Clear result display.
 
 ## Technologies Used
-
 - HTML
 - CSS
 - JavaScript
 
 ## Installation
-
 1. Clone the repository or download the ZIP file.
    ```bash
    git clone https://github.com/YawBoah/rock-paper-scissors-game.git
