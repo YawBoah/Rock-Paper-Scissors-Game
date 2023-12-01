@@ -22,7 +22,7 @@ This is a simple web-based Rock Paper Scissors game built with HTML, CSS, and Ja
 - Clear result display. 🏆
 
 ## 💻 Technologies Used
-- HTML
+- HTML 
 - CSS
 - JavaScript
 
