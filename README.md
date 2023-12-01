@@ -31,7 +31,7 @@ This is a simple web-based Rock Paper Scissors game built with HTML, CSS, and Ja
    ```bash
    git clone https://github.com/YawBoah/rock-paper-scissors-game.git
    ```
-
+   
 2. Navigate to the project directory.
    ```bash
    cd rock-paper-scissors-game
