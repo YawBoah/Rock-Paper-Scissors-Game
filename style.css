@@ -25,6 +25,11 @@ body {
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
 }
 
+.header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
 .result_images {
   display: flex;
   column-gap: 7rem;
