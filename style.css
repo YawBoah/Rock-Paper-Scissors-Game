@@ -15,7 +15,7 @@ body {
 
 ::selection {
   color: #fff;
-  background-color: #7d2ae8;
+  background-color: #0031f5;
 }
 
 .container {
@@ -105,7 +105,7 @@ body {
 }
 
 .option_image p {
-  color: #7d2ae8;
+  color: #1905f3;
   font-size: 1.235rem;
   margin-top: 1rem;
   pointer-events: none;
