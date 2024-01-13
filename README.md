@@ -1,5 +1,9 @@
 # 🎮 Rock Paper Scissors Game 🎮
 [![Netlify Status](https://api.netlify.com/api/v1/badges/cb92efa6-2cae-4d74-a8b2-0fbcf278ee8b/deploy-status)](https://app.netlify.com/sites/rpscissgame/deploys)
+![GitHub repo size](https://img.shields.io/github/repo-size/YawBoah/Rock-Paper-Scissors-Game)
+![GitHub issues](https://img.shields.io/github/issues/YawBoah/Rock-Paper-Scissors-Game)
+![GitHub stars](https://img.shields.io/github/stars/YawBoah/Rock-Paper-Scissors-Game)
+
 
 Are you ready for a thrilling challenge? Do you have what it takes to beat the computer in a classic game of Rock Paper Scissors? 🤘✋✌️
 
